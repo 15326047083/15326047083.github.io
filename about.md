@@ -37,5 +37,3 @@ Jekyll 搭建个人博客
 <p> 
 
 
-{% include comments.html %}
-
